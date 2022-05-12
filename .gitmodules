@@ -1,0 +1,3 @@
+[submodule "gTrade-v6"]
+	path = gTrade-v6
+	url = https://github.com/GainsNetwork/gTrade-v6
